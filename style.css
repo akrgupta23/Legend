@@ -73,6 +73,7 @@ footer{
     border-width: 1vw;
 }
 h1{
+    display: inline;
     font-size:70px;
     font-weight: bolder;
     background-image: linear-gradient(#0be597,#05d6f5);
