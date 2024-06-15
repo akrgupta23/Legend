@@ -42,9 +42,9 @@ body {
     border-radius: 12px;
 }
 
-footer pre {
-    padding: 0 10%;
-    width: 80%;
+pre {
+    padding: 0 15%;
+    width: 70%;
     text-align: center;
     font-size: larger;
     color: white;
