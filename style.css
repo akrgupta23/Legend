@@ -37,13 +37,11 @@ body{
     width: 100%;
     border-radius: 12px;
 }
-footer{
+footer pre{
     width: 90%;
     text-align: center;
     font-size: larger;
-    color:white;
-    position:relative;
-    
+    color:white;  
 }
 .topnav .yt{
     padding: 1% 2%;
